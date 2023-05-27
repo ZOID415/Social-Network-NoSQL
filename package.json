@@ -1,4 +1,9 @@
 
+{
+    "scripts": {
+    "start": "node index",
+    "seed": "node utils/seed"
+  },
 
 {
   "dependencies": {
